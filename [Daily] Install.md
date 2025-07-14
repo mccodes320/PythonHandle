@@ -45,9 +45,15 @@ http://localhost:8888/tree
 
 
 
+### 用VS Code執行 MongoDB
 
+因為沒另外設定PATH, 使用絕對路徑  
 
-
+PS D:\python\training> & C:/Users/Macro/AppData/Local/Programs/Python/Python310/python.exe -m pip install pymongo
+  
+顯示版本  
+  
+PS D:\python\training> & C:/Users/Macro/AppData/Local/Programs/Python/Python310/python.exe -m pip --version
 
 
 
